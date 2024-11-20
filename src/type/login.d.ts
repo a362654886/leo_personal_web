@@ -1,0 +1,3 @@
+type LoginInfo = {
+  time: string;
+};
